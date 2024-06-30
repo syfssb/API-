@@ -21,20 +21,21 @@
 2. **添加令牌**
 
     点击底部的“添加令牌”按钮。
-
-    ![添加令牌](https://github.com/syfssb/API-/assets/20169170/41ea9d9c-52da-488e-873a-acc13a1d84e6)
+ ![添加令牌](https://github.com/syfssb/API-/assets/20169170/41b1fb2d-1e4c-4be8-96cd-687653dc59ec)
+  
 
 3. **设置令牌**
 
     分别设置令牌的名称、有效期（一般设置为永不过期）和额度（一般设置为无限额度），然后提交。
 
-    ![设置令牌](https://github.com/syfssb/API-/assets/20169170/ee379fd7-cd4f-44de-b42e-991364e20db3)
+    ![设置令牌](https://github.com/syfssb/API-/assets/20169170/41ea9d9c-52da-488e-873a-acc13a1d84e6)
 
 4. **查看生成的令牌**
 
     回到令牌主页，可以看到刚刚生成的令牌。在程序调用api的时候需要提供令牌，所以需要提前准备好。
-
-    ![查看令牌](https://github.com/syfssb/API-/assets/20169170/41b1fb2d-1e4c-4be8-96cd-687653dc59ec)
+     
+![查看令牌](https://github.com/syfssb/API-/assets/20169170/ee379fd7-cd4f-44de-b42e-991364e20db3)
+   
 
 ### 充值
 
